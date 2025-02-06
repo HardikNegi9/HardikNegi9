@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 I am an ambitious **Software Developer & AI Engineer** with a strong foundation in **Computer Science, Machine Learning, and Problem-Solving**. I am dedicated to building impactful software solutions through **collaborative teamwork and innovation**.
 
 ## 💻 Technical Skills
-- 🖥️ **Programming Languages**: Python, C++, Java
+- 🖥️ **Programming Languages**: Python, C++, Java, Javascript
 - 🤖 **AI & Machine Learning**: Supervised & Unsupervised Learning, Data Preprocessing, Feature Engineering
 - 📊 **Data Science**: TensorFlow, scikit-learn, Pandas, NumPy
-- 🌐 **Web Development**: MERN Stack, Django, FastAPI, Flask, Streamlit
+- 🌐 **Web Development**: MERN Stack, Django, FastAPI, Flask, Streamlit, NextJs
 - 🏗️ **Computer Science Fundamentals**: Data Structures & Algorithms, Algorithm Optimization, Operating Systems
 - 🛠️ **Databases**: SQL
 - 🧠 **Agentic AI Frameworks**: PhiData, CrewAI, LangChain, LangGraph, LangFlow
